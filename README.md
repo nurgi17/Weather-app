@@ -1,4 +1,4 @@
-## Weather app on ReactJS & Bootstrap 4
+## Weather app on ReactJS & Bootstrap 4 (use the API from https://openweathermap.org)
 <p align="center"><img src="https://github.com/nurgi17/Weather-app/blob/master/src/img/1.png"></p>
 
 ## Available Scripts
