@@ -1,4 +1,4 @@
-Weather app on ReactJS & Bootstrap 4
+## Weather app on ReactJS & Bootstrap 4
 
 ## Available Scripts
 
